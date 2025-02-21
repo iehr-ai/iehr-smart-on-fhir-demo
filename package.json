@@ -1,6 +1,6 @@
 {
   "name": "iehr-smart-on-fhir-demo",
-  "version": "4.3.202",
+  "version": "4.4.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -24,22 +24,22 @@
     ]
   },
   "devDependencies": {
-    "@mantine/core": "7.16.3",
-    "@mantine/hooks": "7.16.3",
-    "@mantine/notifications": "7.16.3",
-    "@iehr/core": "4.3.202",
-    "@iehr/definitions": "4.3.202",
-    "@iehr/eslint-config": "4.3.202",
-    "@iehr/fhirtypes": "4.3.202",
-    "@iehr/mock": "4.3.202",
-    "@iehr/react": "4.3.202",
+    "@mantine/core": "7.17.0",
+    "@mantine/hooks": "7.17.0",
+    "@mantine/notifications": "7.17.0",
+    "@iehr/core": "4.4.0",
+    "@iehr/definitions": "4.4.0",
+    "@iehr/eslint-config": "4.4.0",
+    "@iehr/fhirtypes": "4.4.0",
+    "@iehr/mock": "4.4.0",
+    "@iehr/react": "4.4.0",
     "@tabler/icons-react": "3.17.0",
     "@types/node": "22.13.4",
     "@types/react": "18.3.12",
     "@types/react-dom": "18.3.1",
     "@vitejs/plugin-react": "4.3.4",
-    "chart.js": "4.4.7",
-    "postcss": "8.5.2",
+    "chart.js": "4.4.8",
+    "postcss": "8.5.3",
     "postcss-preset-mantine": "1.17.0",
     "react": "18.2.0",
     "react-chartjs-2": "5.3.0",
@@ -47,7 +47,7 @@
     "react-router-dom": "6.28.0",
     "rimraf": "5.0.9",
     "typescript": "5.7.3",
-    "vite": "6.1.0",
-    "vitest": "3.0.5"
+    "vite": "6.1.1",
+    "vitest": "3.0.6"
   }
 }
